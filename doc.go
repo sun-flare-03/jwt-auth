@@ -1,4 +1,4 @@
 // Package jwtauth provides core functionality.
 //
-// Updated in iteration 3.
+// Updated in iteration 5.
 package main
